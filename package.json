@@ -20,6 +20,7 @@
     "jest-babel": "^1.0.1"
   },
   "dependencies": {
+    "audit": "^0.0.6",
     "core-js": "^3.32.1"
   }
 }
